@@ -4,7 +4,7 @@
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre Mim
 
 - Estudante de **Análise e Desenvolvimento de Sistemas (FATEC)**  
 - Apaixonado por **desenvolvimento Full Stack e banco de dados**  
@@ -38,7 +38,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Técnico
 
 ## 🖥️ Languages
 
