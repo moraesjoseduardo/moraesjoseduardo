@@ -1,26 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3F2EC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+o+José+Eduardo;Tenho+19+Anos;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3F2EC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+o+José+Eduardo;Tenho+19+Anos;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)!](https://git.io/typing-svg)
 
-<br>
-<br>
+<br><br>
+
 <div align="center">
-  
-
-  <img style="border: 2px solid #F3F2EC; display: inline-block; padding: 10px; border-radius: 10px;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraesjoseduardo&layout=compact&count_private=true&bg_color=00000000&text_color=F3F2EC&title_color=F3F2EC&icon_color=D4AF37" />
-
-<img align="right" style="border: 2px solid #F3F2EC; display: inline-block; padding: 10px; border-radius: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=moraesjoseduardo&show_icons=true&count_private=true&bg_color=00000000&text_color=F3F2EC&title_color=F3F2EC&icon_color=D4AF37" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraesjoseduardo&layout=compact&count_private=true&bg_color=00000000&text_color=F3F2EC&title_color=F3F2EC&icon_color=D4AF37&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moraesjoseduardo&show_icons=true&count_private=true&bg_color=00000000&text_color=F3F2EC&title_color=F3F2EC&icon_color=D4AF37&hide_border=true" />
 </div>
 
+<br><br>
 
-<br>
-<br>
-<br>
-
-MushMelo (https://team-mushmelo.github.io/)](https://team-mushmelo.github.io/)
+MushMelo → [https://team-mushmelo.github.io/](https://team-mushmelo.github.io/)
 
 <br>
 
@@ -33,8 +24,7 @@ MushMelo (https://team-mushmelo.github.io/)](https://team-mushmelo.github.io/)
 <img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3F2EC&size=17&width=1000&lines=Desenvolvendo)](https://git.io/typing-svg)
 
@@ -42,15 +32,12 @@ MushMelo (https://team-mushmelo.github.io/)](https://team-mushmelo.github.io/)
 <img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
-<br>
-<br>
-<br>
+<br><br><br>
 
-<div align="center">  
+<div align="center">
 <h2>Sobre Mim</h2>
-
 <p>
-Sou <strong>José Eduardo</strong>, tenho <strong>18 anos</strong> e sou <strong>estudante de Análise e Desenvolvimento de Sistemas</strong>.<br><br>
+Sou <strong>José Eduardo</strong>, tenho <strong>19 anos</strong> e sou <strong>estudante de Análise e Desenvolvimento de Sistemas</strong>.<br><br>
 Apaixonado por tecnologia, busco constantemente aprimorar minhas habilidades técnicas e expandir meus conhecimentos em <strong>desenvolvimento full stack</strong>, <strong>banco de dados</strong>, <strong>integração de sistemas</strong> e <strong>desenvolvimento de jogos</strong>.<br><br>
 Já desenvolvi o jogo <strong>MushMelo</strong> usando <strong>Unity</strong> e <strong>C#</strong>, e também estou trabalhando no projeto <strong>AthletiQ (Fichas de Academia)</strong>.<br><br>
 Acredito na combinação entre lógica e criatividade como motor para gerar soluções inovadoras e eficientes.
@@ -61,16 +48,16 @@ Acredito na combinação entre lógica e criatividade como motor para gerar solu
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3F2EC&size=17&width=1000&lines=Projetos:)](https://git.io/typing-svg)
 
-<a href="https://github.com/Team-Mushmelo/Tao_TCC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Mushmelo&repo=Tao_TCC&show_icons=true&line_height=27&title_color=F3F2EC&text_color=F3F2EC&icon_color=D4AF37&bg_color=D4AF37" alt="MushMelo" />
+<div align="center">
+<a href="https://github.com/Team-Mushmelo/team-mushmelo.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Mushmelo&repo=team-mushmelo.github.io&show_icons=true&line_height=27&title_color=F3F2EC&text_color=F3F2EC&icon_color=D4AF37&bg_color=00000000&hide_border=true" alt="MushMelo" />
 </a>
 
 <a href="https://github.com/Projeto-Fichas-de-Academia/AthletiQ-app">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Fichas-de-Academia&repo=AthletiQ-app&show_icons=true&line_height=27&title_color=F3F2EC&text_color=F3F2EC&icon_color=D4AF37&bg_color=D4AF37" alt="AthletiQ" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Fichas-de-Academia&repo=AthletiQ-app&show_icons=true&line_height=27&title_color=F3F2EC&text_color=F3F2EC&icon_color=D4AF37&bg_color=00000000&hide_border=true" alt="AthletiQ" />
 </a>
+</div>
 
-<br>
-<br>
-<br>
+<br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer"/>
