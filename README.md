@@ -25,7 +25,7 @@
 <div align="center">
 
 <a href="https://github.com/Team-Mushmelo/Tao_TCC">
-<img src="Tao.jfif" width="120">
+<img src="Tao.jfif" width="50">
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
