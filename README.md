@@ -7,7 +7,9 @@
 <div align="center">
   
 
-  
+  <img style="border: 2px solid #F3F2EC; display: inline-block; padding: 10px; border-radius: 10px;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraesjoseduardo&layout=compact&count_private=true&bg_color=00000000&text_color=F3F2EC&title_color=F3F2EC&icon_color=D4AF37" />
+
 <img align="right" style="border: 2px solid #F3F2EC; display: inline-block; padding: 10px; border-radius: 10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=moraesjoseduardo&show_icons=true&count_private=true&bg_color=00000000&text_color=F3F2EC&title_color=F3F2EC&icon_color=D4AF37" />
 
