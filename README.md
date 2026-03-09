@@ -25,13 +25,13 @@
 <div align="center">
 
 <a href="https://github.com/Team-Mushmelo/Tao_TCC">
-<img src="mushmelo.jfif" width="120">
+<img src="mushmelo.png" width="120">
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Projeto-Fichas-de-Academia/AthletiQ-app">
-<img src="athletiq-app.png" width="120">
+<img src="athletiq-app.png" width="50">
 </a>
 
 </div>
