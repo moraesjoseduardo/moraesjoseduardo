@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1DBBBB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D4AF37&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+José+Eduardo;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer;Bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1DBBBB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+José+Eduardo;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer;Bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
 ---
 
@@ -16,7 +16,7 @@
 
 # 📊 GitHub Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moraesjoseduardo&bg_color=0d1117&color=D4AF37&line=D4AF37&point=D4AF37&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moraesjoseduardo&bg_color=0d1117&color=1DBBBB&line=1DBBBB&point=1DBBBB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -25,13 +25,13 @@
 <div align="center">
 
 <a href="https://github.com/Team-Mushmelo/Tao_TCC">
-<img src="Tao.jfif" width="50">
+<img src="Tao.jfif" width="70">
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Projeto-Fichas-de-Academia/AthletiQ-app">
-<img src="athletiq-app.png" width="50">
+<img src="athletiq-app.png" width="70">
 </a>
 
 </div>
@@ -72,4 +72,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1DBBBB&height=120&section=footer"/>
